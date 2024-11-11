@@ -1,0 +1,227 @@
+@font-face {
+    font-family: "BrittanySignatur.ttf";
+    src: url(./font/BrittanySignature.ttf);
+}
+
+@font-face {
+    font-family: "Francy.ttf";
+    src: url(./font/Francy.ttf);
+}
+
+header {
+    background: linear-gradient(#78F3B4, #96E44D);
+    width: 100%;
+    height: 100vh;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img {
+    width: 280px;
+}
+
+a {
+    font-family: "Francy.ttf";
+    font-size: 30px;
+    color: #000;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.anchor {
+    margin-left: 150px;
+    display: flex;
+    align-items: center;
+}
+
+.Navbar {
+    display: flex;
+    align-items: center;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    margin-left: 30px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    background: linear-gradient(#03ffff, #fcd700);
+}
+
+.btn {
+    margin-left: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: "Francy.ttf";
+    letter-spacing: 5px;
+    margin-left: 400px;
+}
+
+span {
+    margin-left: 100px;
+}
+
+.h3 {
+    font-family: "Francy.ttf";
+    letter-spacing: 5px;
+    font-size: 30px;
+    margin-left: 550px;
+}
+
+.img-2 {
+    border-radius: 10px;
+    width: 400px;
+    margin-left: 100px;
+}
+
+.p1 {
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 80px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.img-31 {
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+}
+
+.h1 {
+    font-family: "BrittanySignatur.ttf";
+    background: -webkit-linear-gradient(#00cccc, #fcd700);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: 500px;
+}
+
+.h2 {
+    letter-spacing: 5px;
+    position: relative;
+    top: 10px;
+
+}
+
+.rubaish1 {
+    width: 50px;
+    background: linear-gradient(#78F3B4, #96E44D);
+}
+
+.rubaish2 {
+    width: 50px;
+    background: linear-gradient(#78F3B4, #96E44D);
+
+}
+
+.rubaish3 {
+    width: 50px;
+    background-color: #FFFFFF;
+
+}
+
+.rubaish4 {
+    width: 50px;
+
+    background-color: #FFFFFF;
+}
+
+.rubaish56 {
+    width: 50px;
+    background-color: #FFFFFF;
+}
+
+.img-343 {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    gap: 150px;
+    margin-top: 100px;
+}
+
+.center {
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 100vh;
+}
+
+h3 {
+    font-family: "Francy.ttf";
+    letter-spacing: 5px;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+h4 {
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 60px;
+}
+
+.h4 {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.box {
+    width: 500px;
+    height: 200px;
+    background-color: #03ffff;
+    border-radius: 10px;
+    margin-left: 400px;
+}
+
+.rubaish-01 {
+    width: 600px;
+    height: 200px;
+    background: linear-gradient(#78F3B4, #96E44D);
+    border-radius: 10px;
+    margin-left: 320px;
+}
+
+.rubaish-02 {
+    width: 600px;
+    height: 200px;
+    background: linear-gradient(#78F3B4, #96E44D);
+    border-radius: 10px;
+    margin-left: 320px;
+
+}
+
+.rubaish-03 {
+    width: 600px;
+    height: 200px;
+    background: linear-gradient(#78F3B4, #96E44D);
+    border-radius: 10px;
+    margin-left: 320px;
+
+}
+.p2 {
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 10px;
+    font-size: 15px;
+    margin-left: 120px;
+}
+.main{
+    display: flex;
+    align-items: center;
+}
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+.header{
+    margin-left :50px;
+}
